@@ -1,8 +1,8 @@
-# Final-Presentation-Group-Project-MACHINEMASTERS
-## MACHINE MASTERS Final Project
+# Final-Presentation-Group-Project-MACHINEMINDS
+## MACHINE MINDS Final Project
 
 ### Problem Statement
-We need a guard dog to help protect our home. Actual guard dogs are expensive and fall asleep on the job, so we decided to build one! Our robot will be able to **patrol** a specified doorway space, **detect "threats"** based on passing movement, and **"attack"** these threats while sounding an alarm. The robot will follow a line which will prevent our robot wandering. Our robot guard dog will know several stages of defense, controlled by a remote. 
+We need a guard dog to help protect our home. Actual guard dogs are expensive and fall asleep on the job, so we decided to build one! Our robot will be able to **patrol** a specified doorway space, **detect "threats"** based on passing movement, and **"attack"** these threats while sounding an alarm. The robot will follow a line which will prevent our robot from wandering. Our robot guard dog will know several stages of defense, controlled by a remote. 
 
 ### Sensors
 - **IR line tracking sensor**: Allows us to contain the robot in a contained patroling area. This also allows us to easily change the patrol path.
@@ -11,7 +11,6 @@ We need a guard dog to help protect our home. Actual guard dogs are expensive an
 
 ### Code Overview
 ### Innovations
-- **IR 
 ### Challenges & Solutions
 ### Member Contributions
 ### Instructions for Running the Robot
